@@ -1,0 +1,7 @@
+alias bl='cd /home/bekaar/stuff/rails_projects/blog'
+alias m='cd $CODE_ROOT_DIR/app/models;ls'
+alias v='cd $CODE_ROOT_DIR/app/views;ls'
+alias c='cd $CODE_ROOT_DIR/app/controllers;ls'
+alias a='cd $CODE_ROOT_DIR;pwd;ls'
+alias co='cd $CODE_ROOT_DIR/config;ls'
+alias cv='source ~/cv.sh'
